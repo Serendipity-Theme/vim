@@ -20,4 +20,4 @@ Available files: `colors/serendipity-midnight.vim`, `colors/serendipity-morning.
 
 ## Created by
 
-[Micheal Andreuzza](https://github.com/michael-andreuzza)
+By [Micheal Andreuzza](https://michaelandreuzza.com/) at [Lexington Themes](https://lexingtonthemes.com/)
